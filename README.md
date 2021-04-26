@@ -18,7 +18,7 @@ You should also add a ```hard``` parameter so that it's possible to play against
 The example below shows how your program should work.
 The greater-than symbol followed by a space (```>```) represents the user input. Note that it's not part of the input.
 
-`` 
+```
 Input command: > start hard user
 Making move level "hard"
 ---------
